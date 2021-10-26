@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Billy. I'm an aspiring web developer.
-- 👀 I’m interested in books, history, and coding.
+- 👀 I’m interested in books, history, retro-gaming, and coding.
 - 🌱 I’m currently learning Bootstrap.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me Slack, Discord(?) TBA.
